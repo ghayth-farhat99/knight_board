@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/abcbd843-6cf2-4cd1-b3a8-25825734d8b6)**knight Board**
+**knight Board**
 
 **Build the docker image**
 
