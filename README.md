@@ -1,4 +1,4 @@
-**knight Board**
+![image](https://github.com/user-attachments/assets/abcbd843-6cf2-4cd1-b3a8-25825734d8b6)**knight Board**
 
 **Build the docker image**
 
@@ -11,5 +11,5 @@
     -e COMMANDS_API=https://storage.googleapis.com/jobrapido-backendtest/commands.json \
     knight_board:latest
 
-# Screenshot
-https://github.com/ghayth-farhat99/knight_board/issues/1#issue-3049999960
+(![image](https://github.com/user-attachments/assets/55671ef7-fa52-445f-aa6b-2b4ba4a73e54)
+
