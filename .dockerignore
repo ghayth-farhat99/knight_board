@@ -1,0 +1,18 @@
+# Ignore version control files
+.git
+.gitignore
+
+# Ignore IDE/editor settings
+.vscode/
+
+# Ignore local build output
+target/
+
+# Ignore documentation
+README.md
+
+# Ignore Docker config files (optional)
+.dockerignore
+
+# Ignore images and media
+knight and board.png
