@@ -1,10 +1,10 @@
-**knight Board**
+# knight Board
 
-**Build the docker image**
+## Build the Docker Image
 
 	docker build -t knight_board:latest .
 
-**Run the container**
+# Run the Container
 
     docker run \
     -e BOARD_API=https://storage.googleapis.com/jobrapido-backendtest/board.json \
