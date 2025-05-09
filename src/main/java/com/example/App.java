@@ -13,10 +13,12 @@ import org.json.JSONArray;
 public class App {
     public static void main(String[] args) throws Exception {
         
+        // output variables
         JSONObject result = new JSONObject();
         JSONObject position = new JSONObject();
 
         try {
+            // get url from environment variables
             String boardApi = System.getenv("BOARD_API");
             String commandsApi = System.getenv("COMMANDS_API");
             
@@ -108,6 +110,7 @@ public class App {
                     }
                 }
             }
+            // outputs
             position.put("x", k.x);
             position.put("y", k.y);
             position.put("direction", k.dir);
