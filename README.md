@@ -23,5 +23,5 @@ docker build -t knight_board:latest .
     knight_board:latest
 ```
 
-(![image](https://github.com/user-attachments/assets/55671ef7-fa52-445f-aa6b-2b4ba4a73e54)
+![image](https://github.com/user-attachments/assets/55671ef7-fa52-445f-aa6b-2b4ba4a73e54)
 
